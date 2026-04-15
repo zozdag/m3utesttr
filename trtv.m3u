@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="trthaber.tr tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Ulusal",TRT HABER 
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trthaber.tr tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="Ulusal",TRT Haber
+http://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV
